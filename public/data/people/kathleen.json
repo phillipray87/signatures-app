@@ -1,0 +1,29 @@
+{
+  "id": "kathleen",
+  "name": "Kathleen LoGiodice Fong",
+  "title": "Realtor",
+  "group": "Kathleen Fong Group",
+  "company": "KW Metrocenter",
+  "awards": [
+    "Top 50 Agents - 2023 DC Luxury Magazine",
+    "Washingtonian Magazine - 2024, 2023, 2022, 2021, 2020",
+    "Arlington Magazine Top Producer - 2024, 2023, 2022, 2021, 2019",
+    "Real Trends - WSJ America's Best - 2022"
+  ],
+  "contact": {
+    "mobile": "703.927.1737",
+    "office": "703.224.6000",
+    "email": "",
+    "address": "2111 Wilson Boulevard Suite 1050, Arlington, Virginia 22201",
+    "license": "Licensed in DC, MD, VA"
+  },
+  "signature": {
+    "html": "<svg width='400' height='200'><path d='M20,100 Q150,20 300,100' stroke='black' fill='transparent'/></svg>",
+    "css": "path { stroke-dasharray: 400; stroke-dashoffset: 400; animation: draw 3s linear forwards; } @keyframes draw { to { stroke-dashoffset: 0; } }"
+  },
+  "options": {
+    "strokeColor": "#000",
+    "strokeWidth": 2,
+    "duration": 3
+  }
+}
